@@ -23,21 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto foi a geração de uma imagem de um cachorro realista utilizando a Inteligência Artificial do Google Gemini.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini - Google
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para a criação da imagem bastou apenas poucas palavras. Foi utilizado um prompt em inglês pois a IA cria imagens apenas nesse idioma. Prompt utilizado: "Create an image of a dog."
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+![unnamed](https://github.com/user-attachments/assets/c9dc9e2c-f3c5-473f-80a3-a4affeba94ac)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+Com poucas palavras foi possível criar uma imagem realista de um cachorro, já existem IAs que fazem vídeos ultra realistas. Com o avanço dessa tecnologia a geração desses vídeos e imagens realistas podem ser usados para coisas boas ou infelizmente para coisas ruins.
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
